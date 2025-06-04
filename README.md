@@ -1,15 +1,6 @@
 # compiladores-escom-25-1
 Proyecto del semestre 25/1 de la materia de Compiladores impartida por el profesor Ortigoza Campos Adrián.
 
-Creado por:
-
--López Reyes José Roberto.
-
--Hernández Zamora Alejandro.
-
--Reyes Ruíz Yoselyn Estefany.
-
-
 Proyecto 1:
 
 -Creación de AFN's y sus operaciones (Unión, Concatenación, Cerradura de Kleene, Cerradura Positiva, Cerradura Opcional).
